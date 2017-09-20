@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardview_margins">8dp</dimen>
+    <dimen name="linearlayout_padding">10dp</dimen>
+    <dimen name="framelayout_margin">8dp</dimen>
+    <dimen name="omnify_title_textSize">40sp</dimen>
+    <dimen name="omnify_title_marginTop">18dp</dimen>
+    <dimen name="unsorted_cardview_marginTop">90dp</dimen>
+
+    <dimen name="random_number_title_textSize">20sp</dimen>
+    <dimen name="random_number_body_textSize">18sp</dimen>
+    <dimen name="regen_btn_marginTop">25dp</dimen>
+</resources>

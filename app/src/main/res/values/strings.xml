@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hire</string>
+    <string name="omnify_title">Omnify</string>
+
+    <string name="random_array_title">Random Number Array</string>
+    <string name="service_name">Sorting Service</string>
+    <string name="notification_title">Hire</string>
+    <string name="notification_message">Sorting arrays</string>
+    <string name="ticker_text">Please wait, sorting arrays</string>
+
+    <string name="quick_sort_title">Quick Sort</string>
+    <string name="merge_sort_title">Merge Sort</string>
+
+    <string name="regen_btn_text">Regenerate</string>
+    <string name="sort_btn_text">Sort</string>
+</resources>
